@@ -29,6 +29,6 @@ Options/Usage
 	-f STRING  --fractal=STRING  mandelbrot | multibrot | multibar | tricorn
 	-c CHAR    --char=CHAR       What character you would like to use to paint the fractal
 	-m INT     --max=INT         Maximum number of iterations
-        -d INT     --degree=INT      Degree of polynomial for multibrot and multibar fractals
+	-d INT     --degree=INT      Degree of polynomial for multibrot and multibar fractals
 	-w INT     --width=INT       Width of resulting fractal
 	-h INT     --height=INT      Height of resulting fractal
