@@ -8,6 +8,7 @@ FractalAscii is licensed under [Creative Commons Attribution Non-Commercial Shar
 Installation
 ============
 Pull from repo, and compile:
+----------------------------
     git clone https://github.com/therealnihil/FractalAscii.git
     cd FractalConsole
     chmod +x ./compile_it
@@ -17,10 +18,14 @@ Pull from repo, and compile:
 Operation
 =========
 Default Mandelbrot:
+-------------------
     cd FractalAscii
     ./fractalascii
 
 You can specify type of fractal (-f), character (-c), max iterations (-m), and other options:
+
+Example:
+--------
     ./fractalascii -f multibrot -c ~ -m 100 -d 4 -w 800 -h 600 
 
 Options/Usage
