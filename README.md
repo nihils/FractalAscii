@@ -8,11 +8,9 @@ FractalAscii is licensed under [Creative Commons Attribution Non-Commercial Shar
 Installation
 ============
 Pull from repo, and compile:
-    git clone https://github.com/therealnihil/FractalAscii.git
-    cd FractalConsole
-    chmod +x ./compile_it
-    # Requires ghc installed
-    ./compile_it
+    git clone https://github.com/nihils/FractalAscii.git
+    cd FractalAscii 
+    make 
 
 Operation
 =========
