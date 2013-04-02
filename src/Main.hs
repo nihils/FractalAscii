@@ -3,7 +3,7 @@ import TextAscii
 
 import Data.Complex
 
-import System
+import System.Environment
 import System.Console.GetOpt
 
 data Options = Options
