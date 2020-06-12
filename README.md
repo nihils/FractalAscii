@@ -23,7 +23,8 @@ Default Mandelbrot:
 Multibrot
 ---------
 You can specify type of fractal (-f), character (-c), max iterations (-m), and other options:
-    ./fractalascii -f multibrot -c ~ -m 100 -d 4 -w 800 -h 600 
+     
+     ./fractalascii -f multibrot -c ~ -m 100 -d 4 -w 800 -h 600 
 
 Options/Usage
 -------------
